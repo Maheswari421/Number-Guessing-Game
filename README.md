@@ -1,10 +1,10 @@
 # Number-Guessing-Game
 Enjoy a fun guessing game with computer hints for added excitement.
 
-import random
+    import random
 This line imports the random module in Python, which allows us to generate random numbers. We'll use this module to generate a random number for the player to guess.
 
-def number_guessing_game():
+    def number_guessing_game():
 This line defines a function named number_guessing_game(). This function encapsulates the logic of the number guessing game.
 
     print("Welcome to the Number Guessing Game!")

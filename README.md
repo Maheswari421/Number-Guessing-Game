@@ -47,6 +47,6 @@ This line increments the attempts variable by 1 for each guess the player makes.
             break
 This block of code compares the player's guess with the secret_number. If the guess is lower than the secret number, it prints "Too low! Try again.". If the guess is higher, it prints "Too high! Try again.". If the guess is correct, it prints a congratulatory message indicating the number of attempts made, and then it breaks out of the loop, ending the game.
 
-number_guessing_game()
+    number_guessing_game()
 This line calls the number_guessing_game() function, starting the game when the script is executed.
 
